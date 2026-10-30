@@ -1,0 +1,6 @@
+{
+  "name": "VWO Mentor - Gepersonaliseerde Wetenschappelijke Studiecoach",
+  "description": "Gepersonaliseerde studiecoach voor VWO 4-5-6 scholieren. Met diepgaande concept-uitleg, cognitief onderbouwde studiemethoden, betrouwbare academische bronnen en een Socratische huiswerkhulp met scans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
